@@ -7,12 +7,12 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Microsoft needs a Principal Software Engineer and is spending time and resources in the hiring process, onboarding, training, etc.
 - Scaler is an education and career advancement company that can provide a highly trained software development engineer to Microsoft. So, the business development executive (Mohan) from Scaler is going to reach out to Microsoft via a cold email.
 
-![img.png](![img](https://github.com/user-attachments/assets/91d73b8c-4224-4e33-a8f1-4001ee371955)
-)
+![img](https://github.com/user-attachments/assets/45d67d1b-a087-471a-8f3b-4f3cfee55f95)
+
 
 ## Architecture Diagram
-![img.png](![architecture](https://github.com/user-attachments/assets/f29b4176-7a46-4c1e-9745-8d2357c39ff5)
-)
+![architecture](https://github.com/user-attachments/assets/f2263688-aa9f-4c4d-a24e-945920dd20b7)
+
 
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
